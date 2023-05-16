@@ -26,3 +26,4 @@ void printList() {
 void insertFirst(int key, int data) {
     struct node *link = (struct node*) malloc(sizeof(struct node));
 }
+
